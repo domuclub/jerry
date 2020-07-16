@@ -98,4 +98,4 @@ async def uhoh(ctx):
         voice = await channel.connect()
     source = FFmpegPCMAudio('uhoh.mp3')
     player = voice.play(source)
-client.run('NzE1MDQ4OTQ1MjM5MTk1NzQ4.Xs3nyw.MkjZ9MNgNJ8iVZrRggQs1SAeMkU')
+client.run('code here')
